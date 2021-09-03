@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">guide</string>
+    <string name="edexcel">edexcel</string>
+    <string name="cambridge">cambridge</string>
+    <string name="bmeb">bmeb</string>
+    <string name="bise">bise</string>
+    <string name="olevel">O-Level</string>
+    <string name="alevels">A-Levels</string>
+    <string name="mathb">math-b</string>
+    <string name="puremath">Pure Math</string>
+    <string name="physics">physics</string>
+    <string name="chemistry">chemistry</string>
+    <string name="biology">biology</string>
+    <string name="english">english</string>
+    <string name="bengali">Bengali</string>
+    <string name="economics">economics</string>
+    <string name="commerce">commerce</string>
+    <string name="accounting">accounting</string>
+    <string name="title_activity_economics">economics</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="guide">MY Guide</string>
+    <string name="notes">notes</string>
+    <string name="pastpapers">Past Papers</string>
+    <string name="questionpaper">question paper</string>
+    <string name="markscheme">mark scheme</string>
+    <string name="title_activity_questionpaper">questionpaper</string>
+</resources>
